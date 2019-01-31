@@ -1,0 +1,1 @@
+python -u "e:\sckoding\basic.py" >> somefile.txt
